@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+.idea/
+.vscode/
+*.swp
+.DS_Store
+*.svv.bak
