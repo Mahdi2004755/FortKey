@@ -5,7 +5,7 @@ from gui import FortKeyApp
 
 
 def main() -> None:
-    app = FortKeyApp()
+    app = FortKeyApp() 
     app.mainloop()
 
 
