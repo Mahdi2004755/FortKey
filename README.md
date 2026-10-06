@@ -81,4 +81,5 @@ The `fortkey/demo_import.svv` file is an encrypted backup with three fictional e
 
 ## License
 
-Use at your own risk; no warranty.
+Use at your own risk; no warranty. 
+All Rights Reserved.
